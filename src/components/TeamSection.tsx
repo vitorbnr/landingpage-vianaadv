@@ -8,7 +8,7 @@ import lawyer7 from "@/assets/lawyer-7.jpg";
 
 const team = [
   {
-    name: "Bel. Wallysson Viana Silva",
+    name: "Wallysson Viana Silva",
     role: "Advogado Sócio-Fundador",
     oab: "OAB/BA 23.825",
     desc: "Pós-graduado em Direito Processual Civil e Direito Público.",
